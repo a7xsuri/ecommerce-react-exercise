@@ -1,4 +1,4 @@
-const Prodcut = () =>{
+const Product = () =>{
     return(
         <section className="container">
             <div className="row">
@@ -14,4 +14,4 @@ const Prodcut = () =>{
     )
 }
 
-export default Prodcut
+export default Product

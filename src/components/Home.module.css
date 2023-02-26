@@ -1,0 +1,17 @@
+.imgLarge{
+    width: 100vw;
+    height: 95vh;
+    object-fit: cover;
+}
+
+.background{
+    background-color: rgba(0, 0, 0, 0.23);
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.text{
+    color: black;
+}
